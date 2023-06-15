@@ -1,2 +1,3 @@
-# ModalApplications
-Webhooks built using Modal
+# Modal Applications
+
+Collection of Webhooks built using Modal.
